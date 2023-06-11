@@ -1,3 +1,4 @@
+# You Can go to the live website (https://dhakamerce.netlify.app)
 #First go to client folder
 `npm i`
 `npm start`
